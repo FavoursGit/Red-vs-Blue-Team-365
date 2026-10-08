@@ -1,0 +1,35 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+credentials.json
+secrets.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/sensitive lab artefacts: review and sanitise before uploading
+*.pcap
+*.pcapng
+*.evtx
+*.dmp
+*.mem
+*.vmdk
+*.vdi
