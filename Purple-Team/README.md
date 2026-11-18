@@ -1,11 +1,9 @@
-# 🟣 Purple Team Challenges
+# Purple Team
 
-Connect controlled offensive activity with defensive telemetry, detection logic, validation and improvements.
+Controlled exercises connecting attack techniques to detection and prevention.
 
-Use the [challenge template](../templates/CHALLENGE_TEMPLATE.md). Link completed investigations here.
+| Exercise | Detection or defence tested |
+| --- | --- |
+| No write-ups published yet | |
 
-| Challenge | Technique | Detection tested | Write-up |
-| --- | --- | --- | --- |
-| — | No completed challenges yet | — | — |
-
-For each lab, clearly state the authorised scope, attack simulation, expected evidence, detection query, observed results, false positives and suggested improvements.
+Each exercise will show the authorised simulation, observed telemetry, detection results and improvements.
