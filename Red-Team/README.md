@@ -1,11 +1,9 @@
-# 🔴 Red Team Challenges
+# Red Team
 
-Authorised offensive-security practice: vulnerability identification, web security, Linux/Windows misconfigurations and safe lab exploitation.
+Practical web security and penetration-testing exercises completed in authorised lab environments.
 
-Start with the [challenge template](../templates/CHALLENGE_TEMPLATE.md), save each investigation in a numbered subfolder, and add its link below **only when completed**.
+| Lab | What I investigated |
+| --- | --- |
+| No write-ups published yet | |
 
-| Challenge | Topic | Write-up |
-| --- | --- | --- |
-| — | No completed challenges yet | — |
-
-**Scope:** Intentionally vulnerable training platforms, isolated practice networks and systems you have explicit authorisation to test. Never publish platform-restricted answers or flags.
+Each investigation will include the weakness, how I tested it, evidence and potential mitigations.
