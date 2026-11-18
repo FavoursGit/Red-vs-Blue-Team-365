@@ -1,11 +1,9 @@
-# 🔵 Blue Team Challenges
+# Blue Team
 
-Incident response, forensic evidence, alert triage, Windows event logs, Splunk, threat hunting and network analysis.
+Security investigations covering event logs, network traffic, digital forensics and incident response.
 
-Use the [challenge template](../templates/CHALLENGE_TEMPLATE.md). Link completed investigations here.
+| Investigation | What I found |
+| --- | --- |
+| No write-ups published yet | |
 
-| Challenge | Topic | Write-up |
-| --- | --- | --- |
-| — | No completed challenges yet | — |
-
-Include indicators, event IDs or queries where appropriate, plus an explanation of false positives and investigative limitations. Sanitise all evidence.
+Each report will document the evidence, my analysis and conclusions.
